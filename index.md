@@ -27,4 +27,8 @@
 # 期間
 2022年2月1日 〜 3月31日
 
+# 受講料
+5万円
 
+# 入塾申し込みフォーム
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeg206RLe-l9UJ38RBtVhANnKEjCMdVRwiUeNyN6mYcUWk5iA/viewform?embedded=true" width="640" height="883" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
