@@ -16,3 +16,7 @@ header h1 {
 body {
 	font-family: "Noto Sans JP", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "ＭＳ Ｐゴシック", sans-serif;
 }
+
+aside#sidebar p {
+    visibility: hidden;
+}
