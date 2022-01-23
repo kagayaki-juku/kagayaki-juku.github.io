@@ -12,6 +12,8 @@
 受講生は、オンラインセミナーをいつでも視聴することができます。
 また、期末には、現役議員も参加する懇談会を開催します。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBD_nUMYIy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## セミナー内容
 - 私はこうして政治家になりました。政治への道のりインタビュー
   - 第一線で活躍する女性政治家に、政治家になろうと思ったきっかけ、政治家になるまでの活動、政治家になってからの日々を伺います。
