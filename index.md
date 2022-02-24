@@ -41,5 +41,5 @@
 ## お振込先
 りそな銀行 北浜支店(103) 普通 6503820
 
-# 入塾申し込みフォーム
+# 入塾先行申し込みフォーム
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeg206RLe-l9UJ38RBtVhANnKEjCMdVRwiUeNyN6mYcUWk5iA/viewform?embedded=true" width="640" height="883" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
