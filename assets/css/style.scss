@@ -3,10 +3,18 @@
 
 @import "{{ site.theme }}";
 
+
+header {
+	background: #0ccfff;
+    border-bottom: solid 1px #6ec4d9;
+}
 header h1 {
 	width: 100%;
 	font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic","ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, sans-serif;
+}
 
+header h1 img {
+	width: 640px;
 }
 
 #main-content h1 {
@@ -19,4 +27,11 @@ body {
 
 aside#sidebar p {
     visibility: hidden;
+}
+
+
+@media screen and (max-width: 800px) {
+	header h1 img {
+		width: 100%;
+	}
 }
