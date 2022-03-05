@@ -62,7 +62,7 @@
 5万円
 
 # 受講先行申し込みフォーム
-会員ページへのリンクをお送りします。
-限定無料公開動画も会員ページから視聴可能です。
+会員ページの公開をいち早くお知らせします。
+会員登録（無料）をお済ませいただくと、**限定無料公開動画**を視聴可能です。
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeg206RLe-l9UJ38RBtVhANnKEjCMdVRwiUeNyN6mYcUWk5iA/viewform?embedded=true" width="640" height="883" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
