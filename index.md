@@ -11,6 +11,8 @@
 受講生は、オンラインセミナーをいつでも視聴することができます。
 また、期末には、現役議員も参加する懇談会を開催します。
 
+[会員登録する](https://members.kagayaki-juku.jp/signup)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LBD_nUMYIy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## セミナー概要
@@ -71,7 +73,7 @@
 5万円
 
 # 会員登録（無料）
-[会員登録はこちら](https://members.kagayaki-juku.jp/signup)
+[会員登録する](https://members.kagayaki-juku.jp/signup)
 
 会員登録をお済ませいただくと、**限定無料公開動画**を視聴可能です。
 
