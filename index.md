@@ -17,6 +17,9 @@
 オンデマンド講義シリーズ
 - 私はこうして政治家になりました。政治への道のりインタビュー
   - 第一線で活躍する女性政治家に、政治家になろうと思ったきっかけ、政治家になるまでの活動、政治家になってからの日々を伺います。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oy8NuBWAye8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - これからの政治はどうなる？　政治入門講座
   - 政治は私たちの日々の生活と密接に関わっています。身近なところから政治について考えてみましょう。
   - 政治を理解するために必要な基礎知識から学んでいきます。
