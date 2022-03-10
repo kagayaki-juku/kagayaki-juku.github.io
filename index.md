@@ -72,8 +72,6 @@
 ## 受講料
 5万円
 
-# 会員登録（無料）
-**[会員登録する](https://members.kagayaki-juku.jp/signup)**
-
+# [会員登録する(無料)](https://members.kagayaki-juku.jp/signup)
 会員登録をお済ませいただくと、**限定無料公開動画**を視聴可能です。
 
