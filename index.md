@@ -14,7 +14,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LBD_nUMYIy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## セミナー概要
-[講義一覧](https://members.kagayaki-juku.jp/videos/)
+**[講義の一覧はこちら](https://members.kagayaki-juku.jp/videos/)**
+
 オンデマンド講義シリーズ
 - 私はこうして政治家になりました。政治への道のりインタビュー
   - 第一線で活躍する女性政治家に、政治家になろうと思ったきっかけ、政治家になるまでの活動、政治家になってからの日々を伺います。
@@ -70,5 +71,7 @@
 5万円
 
 # 会員登録（無料）
-会員登録をお済ませいただくと、**限定無料公開動画**を視聴可能です。
 [会員登録はこちら](https://members.kagayaki-juku.jp/signup)
+
+会員登録をお済ませいただくと、**限定無料公開動画**を視聴可能です。
+
