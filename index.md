@@ -14,6 +14,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LBD_nUMYIy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## セミナー概要
+[講義一覧](https://members.kagayaki-juku.jp/videos/)
 オンデマンド講義シリーズ
 - 私はこうして政治家になりました。政治への道のりインタビュー
   - 第一線で活躍する女性政治家に、政治家になろうと思ったきっかけ、政治家になるまでの活動、政治家になってからの日々を伺います。
@@ -68,8 +69,6 @@
 ## 受講料
 5万円
 
-# 受講先行申し込みフォーム
-会員ページの公開をいち早くお知らせします。
-会員登録（無料）をお済ませいただくと、**限定無料公開動画**を視聴可能です。
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeg206RLe-l9UJ38RBtVhANnKEjCMdVRwiUeNyN6mYcUWk5iA/viewform?embedded=true" width="640" height="883" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+# 会員登録（無料）
+会員登録をお済ませいただくと、**限定無料公開動画**を視聴可能です。
+[会員登録はこちら](https://members.kagayaki-juku.jp/signup)
