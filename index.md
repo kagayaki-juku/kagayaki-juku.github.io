@@ -14,8 +14,6 @@
 
 **[会員登録する](https://members.kagayaki-juku.jp/signup)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBD_nUMYIy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## セミナー概要
 **[講義の一覧を確認する](https://members.kagayaki-juku.jp/videos/)**
 
