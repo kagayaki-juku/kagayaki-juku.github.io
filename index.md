@@ -7,12 +7,12 @@
 市政・国政の第一線で活躍する政治家とともに、日本の未来を考えていきませんか？
 
 # 受講生募集開始
-新規受講生の先行申し込みを開始しました。
+新規受講生のWEB申し込みを開始しました。
 受講生は、オンラインセミナーをいつでも視聴することができます。
 また、期末には、現役議員も参加する懇談会を開催します。
 講義は男性でも受講可能です。
 
-**[会員登録する](https://members.kagayaki-juku.jp/signup)**
+**[会員登録する（無料）](https://members.kagayaki-juku.jp/signup)**
 
 ## セミナー概要
 **[講義の一覧を確認する](https://members.kagayaki-juku.jp/videos/)**
@@ -67,6 +67,6 @@
 ## 受講料
 5万円
 
-# [会員登録する(無料)](https://members.kagayaki-juku.jp/signup)
+[会員登録する(無料)](https://members.kagayaki-juku.jp/signup)
 会員登録をお済ませいただくと、**限定無料公開動画**を視聴可能です。
 
