@@ -1,3 +1,6 @@
+<p style=" color: white; background-color: #e53935; border-left: 6px solid #c62828; font-weight: bold; font-size: 1.4em; padding: 0.9em 1.2em; border-radius: 8px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);"> 📢 開講日が9月13日に決定しました！</p>
+
+
 女性政治塾かがやきは、「女性が活躍できる日本」実現のために私たちができることを考え行動する力を育てる政治セミナーです。
 
 女性の活躍の幅が多様化し、私たちの社会はいま大きく変化しています。
